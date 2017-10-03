@@ -109,7 +109,4 @@ p {
   float: center;
 }
 
-.lgnbtn{
-  background-color:#32CD32 ;
 
-}
