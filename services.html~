@@ -39,7 +39,7 @@
 				<li><a href="about.html">About Us</a></li>
 				<li><a href="services.html">Services</a></li>
 				<li><a href="contact.html">Contact</a></li>
-				<li><a href="https://login.microsoftonline.com/common/oauth2/authorize?client_id=871c010f-5e61-4fb1-83ac-98610a7e9110&response_mode=form_post&response_type=code+id_token&scope=openid+profile&state=OpenIdConnect.AuthenticationProperties%3dhg3e5aGZ-SnAqyxMZthF9UddknRp4JdITozTu8Pns-xkAlQrs_Jfps1QTK6kqksoeOpCVRxWJXwpYJwfoSPS07kVyd9v9_ysy8gO2QQnhbaiwif31i3c5GtFt7DKcBzZmllhTA&nonce=636398362683354101.YmE4M2FlMGEtNjM5MS00NjU1LThiZTktYTBkNmIzOGQ2Y2MwNWRjYjhkNjQtMWU3OC00OTQ3LWFmYWItYjM3OTViOTdhOWIy&site_id=500453&redirect_uri=https%3a%2f%2fapp.powerbi.com%2f%3fnoSignUpCheck%3d1&post_logout_redirect_uri=https%3a%2f%2fapp.powerbi.com%2f%3fnoSignUpCheck%3d1&resource=https%3a%2f%2fanalysis.windows.net%2fpowerbi%2fapi&nux=1&msafed=0">Login</a></li>
+				<li><a href="login.html">Login</a></li>
 	</ul>
 </div>
 
@@ -54,8 +54,6 @@
       <div class = "col-md-12">
 	<h1>NRG Tracker Service Offerings!</h1> 
 	<p>We build customer oriented solutions for utility tracking.</p>
-
-	<hr class = "hr_class1" = "">
 	<h3> Utility Tracking </hr>
 
 	<br>
