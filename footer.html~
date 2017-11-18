@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Welcome to NRG Tracker!</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href="css/custom.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+	  
+<!--Start Header-->
+	  <nav class="navbar navbar-inverse navbar-static-top">
+	<div class="container">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+			<a class="navbar-brand" href="index.html">NRG Tracker</a>
+		</div>
+		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+			<ul class="nav navbar-nav navbar-right">
+
+				<li><a href="index.html">Home</a></li>
+				<li><a href="about.html">About Us</a></li>
+				<li><a href="services.html">Services</a></li>
+				<li><a href="contact.html">Contact</a></li>
+			</ul>
+		</div>
+	</div>
+</nav>
+
+<!--End Header-->
+
+<!--Start Body-->
+
+<!--Jumbotrop / Call to Action -->
+
+
+<div class="jumbotron">
+	<div class="container">
+		<h1>Track. Analyze. Save.</h1>
+		<p> Utility tracking has a known ROI! Struggling with huge amounts of utility data? Our solutions are here to help!</p>
+		<br>
+		<p><a class="btn btn-primary btn-lg" href="https://app.powerbi.com/view?r=eyJrIjoiMDdjNTRmNWItOGRiZi00YjgwLWI0YzUtNWIwYzI1YWZlMWQ4IiwidCI6ImUxNWM5ZTEyLTgyYzItNDVlYy1iYjgwLWRiMjNkZmZlMWI0YiIsImMiOjN9" role="button">View Our Free Demo <span class="glyphicon glyphicon-stats glyphicon-small" aria-hidden="true"></span></a> <a class="btn btn-primary btn-lg" href="services.html" role="button">Learn more <span class="glyphicon glyphicon-leaf glyphicon-small" aria-hidden="true"></a></p>
+	</div>
+</div>
+
+<!--3x Grid Column -->
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-4">
+
+			<span class="glyphicon glyphicon-cloud glyphicon-large" aria-hidden="true"></span>
+			<h3>Cloud Accessible Energy Data</h3>
+			<p>Your utility data. Your way. NRG Tracker provides cloud enabled utility tracking services. Utility information can be accessed from any device for simple reporting. </p>
+		</div>
+	
+		<div class="col-md-4">
+
+			
+			<span class="glyphicon glyphicon-stats glyphicon-large" aria-hidden="true"></span>
+			<h3>Energy Intellegence Ready</h3>
+			<p>Complex algorithms. Simple results. NRG Tracker uses ASHRAE standards for utility tracking and baseline analysis.</p>
+		</div>
+		<div class="col-md-4">
+			
+			<span class="glyphicon glyphicon-leaf glyphicon-large" aria-hidden="true"></span>
+			<h3>Simple Savings Reporting</h3>
+			<p>Beautiful Reports. Simple for Management. From year over year spend to demand heatmaps, NRG Tracker has reporting needs covered from energy managers to building ownership.</p>
+		</div>
+	</div>
+</div>
+<!--End Body-->
+
+<!--Start Footer-->
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+
+<!--End Footer -->    
+  </body>
+</html>
